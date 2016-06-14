@@ -14,16 +14,16 @@ The process consists of 6 main steps:
 
 1.  Go to the main page for the repository: <https://github.com/FreeCodeCampLondon/git-practice>
 2.  Click on the 'Fork' button in the upper right hand corner. [Detailed instructions here](https://help.github.com/articles/fork-a-repo).
-3.  Once this is done you will be taken to your copy of the repository at `yourUserName/github-practice`
+3.  Once this is done you will be taken to your copy of the repository at `yourUserName/git-practice`
 4.	Clone your fork locally and `cd` into the new directory:
 
-    `git clone https://github.com/yourUserName/github-practice.git`
+    `git clone https://github.com/yourUserName/git-practice.git`
 
     `cd FCCLND`
 
 4.  Add the main repository as a remote branch so that you can rebase later
 
-    `git remote add upstream https://github.com/FreeCodeCampLondon/FCCLND.git`
+    `git remote add upstream https://github.com/FreeCodeCampLondon/git-practice.git`
 
 ## Creating Branch
 
@@ -71,9 +71,7 @@ Before making your Pull Request you need to make sure that you are up to date wi
 1.  Once you have pushed all your changes to your fork navigate to the GitHub page for your fork.
 2.  In the Branch menu, choose the branch that you were working on.
 3.  On the right of the page click on **New Pull Request**
-4.  Change the title to short description of the issue you have worked on
-5.  In the Comment section write a brief outline of the changes you have made.
-6.  End the comment with a new line with the text 'Closes' followed by a '#' and the issue number that your Pull Request relates to. e.g. `Closes #4`
-7.  Click on **Create pull request**
-8.  Your Pull Request will be reviewed by the core team before being merged into the main repository.
+4.  Change the title to your name
+5.  Click on **Create pull request**
+6.  Your Pull Request will be reviewed by the core team before being merged into the main repository.
   
