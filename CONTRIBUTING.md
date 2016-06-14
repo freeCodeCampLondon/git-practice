@@ -2,12 +2,12 @@
 
 The process consists of 6 main steps:
 
-1 - Forking: Making a copy of the project on your github.
-2 - Cloning: Making a local copy of the project.
-3 - Branching: Creating another version to work in before using master.
-4 - Rebasing: Making sure your branch is up to date with the main project.
-5 - Push: Adding your changes to your github
-6 - Pull: Requesting for your changes to be added to main project.
+1. Forking: Making a copy of the project on your github.
+2. Cloning: Making a local copy of the project.
+3. Branching: Creating another version to work in before using master.
+4. Rebasing: Making sure your branch is up to date with the main project.
+5. Push: Adding your changes to your github
+6. Pull: Requesting for your changes to be added to main project.
 
 
 ## Forking and Cloning Locally
