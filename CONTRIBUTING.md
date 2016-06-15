@@ -19,7 +19,7 @@ The process consists of 6 main steps:
 
     `git clone https://github.com/yourUserName/git-practice.git`
 
-    `cd FCCLND`
+    `cd git-practice`
 
 4.  Add the main repository as a remote branch so that you can rebase later
 
@@ -33,7 +33,11 @@ The process consists of 6 main steps:
 
 ## Make Changes
 
-1. Open text document campers.txt and add your name to the list.
+1. Open text document campers.txt and add your name to the list and save the document.
+2. Commit your change to your local branch:
+    
+    `git add campers.txt`
+    `git commit -m 'add Your Name'`
 
 ## Rebasing from Upstream
 
